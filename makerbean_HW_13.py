@@ -29,7 +29,3 @@ print("正在生成您的简历......")
 print("********简历*******")
 person.print_profile()
 
-
-
-
-
